@@ -37,23 +37,37 @@ width: 25%;
 float: left;
 outline: 3px dashed rgb(209, 10, 143);
 height: 750px;
+
 }
 
 
 
-.container2 
+.letras_mujeres
 {
-
+margin-left: 20px;
+margin-right: 20px;
 }
 
 img
 {
+    
     width: 200px;
     height:200px;
+    margin-left: 27%;
+    margin-right: 20%;
 }
 
 #nombre
 {
     text-align: center;
     color: rgb(110, 15, 110);
+    font-size: 20px;
 }
+
+#letras_rojas
+{
+    text-align: center;
+    color: red;
+    font-size: 15px;
+}
+
